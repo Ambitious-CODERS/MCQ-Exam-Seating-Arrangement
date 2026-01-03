@@ -2,6 +2,8 @@
 
 An integrated web application to create and administer MCQ exams and automatically generate seating arrangements for exam halls. This repository combines exam management (question banks, scheduling, scoring) with robust seating assignment features to help organizers run orderly, cheat-resistant exams.
 
+This project is maintained under the Ambitious-CODERS organization on GitHub: [Ambitious-CODERS](https://github.com/Ambitious-CODERS)
+
 Primary languages: HTML (UI), PHP (server-side), SCSS / Less / CSS (styles), small JS for interactivity.
 
 ---
@@ -18,6 +20,7 @@ Primary languages: HTML (UI), PHP (server-side), SCSS / Less / CSS (styles), sma
 - [Database / sample schema](#database--sample-schema)
 - [Folder structure (typical)](#folder-structure-typical)
 - [Troubleshooting](#troubleshooting)
+- [Organization & contributors](#organization--contributors)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -71,7 +74,7 @@ Primary languages: HTML (UI), PHP (server-side), SCSS / Less / CSS (styles), sma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ommankar2008/MCQ-Exam-Seating-Arrangement.git
+   git clone https://github.com/Ambitious-CODERS/MCQ-Exam-Seating-Arrangement.git
    cd MCQ-Exam-Seating-Arrangement
    ```
 
@@ -207,6 +210,26 @@ Adjust based on the actual repository layout.
 
 ---
 
+## Organization & contributors
+
+This repository is part of the Ambitious-CODERS organization.
+
+Maintainers and organization members
+- [@ommankar2008](https://github.com/ommankar2008) – *Om Mankar* (Project Lead)
+- [@savjigajanan2006](https://github.com/savjigajanan2006) – *Gajanan Savji*
+- [@vedantkolte2007](https://github.com/vedantkolte2007) – *Vedant Kolte*
+- [@shiv-2707](https://github.com/shiv-2707) – *Shivraj Dalave*
+
+Notes:
+- Replace the placeholder handles above with actual GitHub handles of organization members to properly tag them.
+- To mention the entire organization in an issue or PR you can use `@Ambitious-CODERS` (this mentions the org but may not notify every member depending on their notification settings).
+- If you want me to insert and tag every organization member programmatically, I can fetch the members list and update this section — confirm and I will proceed.
+
+Acknowledgements
+- Thanks to all Ambitious-CODERS members and external contributors for improvements, testing, and bug reports.
+
+---
+
 ## Contributing
 
 1. Fork the repo
@@ -215,6 +238,8 @@ Adjust based on the actual repository layout.
 4. Describe changes, migration steps, and sample data for testing
 
 Please include test data and clear setup steps for bigger changes (DB migrations, config updates).
+
+If you are a member of the Ambitious-CODERS organization and want to be listed in the Maintainers section, send your GitHub handle or allow the repository administrator to add you automatically.
 
 ---
 
@@ -226,10 +251,12 @@ Add a license file (e.g., MIT) to make terms clear. If you want, I can propose a
 
 ## Contact
 
-Owner: [ommankar2008](https://github.com/ommankar2008)
+Organization: [Ambitious-CODERS](https://github.com/Ambitious-CODERS)  
+Primary contact / repo owner: @ommankar2008
 
 If you want, I can:
 - commit this README to the repository,
+- replace the member placeholders with actual organization member handles (I can fetch them if you permit),
 - produce a matching LICENSE,
 - create an INSTALL.md with screenshots,
-- or tailor the README to specific file names and routes found in your repo (if you point me to them).
+- or tailor the README to specific file names and routes found in your repo (point me to them and I will update the text accordingly).
