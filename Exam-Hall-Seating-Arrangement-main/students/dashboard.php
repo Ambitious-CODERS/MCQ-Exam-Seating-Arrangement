@@ -79,6 +79,11 @@ session_start();
     }
 ?>
 </div>
+                <div class="text-center my-4">
+                    <a href="http://localhost/MCQ-Exam-Seating-Arrangement/MCQ-Examination-main/" target="_blank" class="btn btn-primary btn-lg" rel="noopener noreferrer">
+                        Online Examination Portal
+                    </a>
+                </div>
             </div>
         </div>
     </body>
