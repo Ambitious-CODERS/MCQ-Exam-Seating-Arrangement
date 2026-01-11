@@ -252,7 +252,7 @@ Add a license file (e.g., MIT) to make terms clear. If you want, I can propose a
 ## Contact
 
 Organization: [Ambitious-CODERS](https://github.com/Ambitious-CODERS)  
-Primary contact / repo owner: @ommankar2008
+Primary contact / repo owner: [@ommankar2008](https://github.com/ommankar2008)
 
 If you want, I can:
 - commit this README to the repository,
