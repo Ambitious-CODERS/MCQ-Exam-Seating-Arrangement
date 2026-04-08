@@ -46,7 +46,7 @@
                 </ul>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                 <ul class="navbar-nav ">
-                    <img src="assets/img/my_logo.jpg" alt="" width="70" height="70">			
+                    <img src="assets/img/my_logo.jpeg" alt="" width="70" height="70">			
                 </ul>		  
                 </div>
             </div>
