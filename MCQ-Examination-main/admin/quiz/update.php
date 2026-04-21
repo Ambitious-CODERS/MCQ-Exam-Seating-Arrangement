@@ -81,7 +81,7 @@
         <form action="updatequiz.php" method="post">
             <div id="textboxDiv">
                 <?php
-                    $conn=mysqli_connect($server_name,$username,$password,$database_name);
+                    $conn=mysqli_connect($server_name,$username,$password,$database_name, $port);
                     $num=0;
                     
                     $sql_query = "SELECT * from questions where quizname='$qn'";

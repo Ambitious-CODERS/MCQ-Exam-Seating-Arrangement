@@ -59,7 +59,7 @@
     <div class="container jumbotron">
         <?php
             function update($server_name,$username,$password,$database_name){
-                $conn=mysqli_connect($server_name,$username,$password,$database_name,$port);
+                $conn=mysqli_connect($server_name,$username,$password,$database_name, $port = 3307);
                 //now check the connection
                 if(!$conn)
                 {
